@@ -17,9 +17,11 @@ SERVICE ARCHITECTURE:
 ![image](https://github.com/lavanyaD612/End-to-End-Web-Application-using-Cloud-s-Serverless-Architecture/assets/165453620/acf7d4d0-4fbf-4bab-8fd9-2ef2261b14c9)
 
 PICKING RIDE:
+
 ![image](https://github.com/lavanyaD612/End-to-End-Web-Application-using-Cloud-s-Serverless-Architecture/assets/165453620/456a7a45-f2f0-4f84-8a5d-8696703fff33)
 
 REQUEST UNICORN:
+
 ![image](https://github.com/lavanyaD612/End-to-End-Web-Application-using-Cloud-s-Serverless-Architecture/assets/165453620/5e367a35-1d12-4e9c-970a-a1360885c6d2)
 
 PROJECT USES:
